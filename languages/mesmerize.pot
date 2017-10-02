@@ -1,0 +1,838 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mesmerize\n"
+"POT-Creation-Date: 2017-06-20 18:47+0300\n"
+"PO-Revision-Date: 2016-01-06 19:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_150\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: template-parts\n"
+"X-Poedit-SearchPath-2: page-templates\n"
+"X-Poedit-SearchPath-3: inc\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2717 inc/functions.php:68
+#: inc/functions.php:78
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2726 inc/functions.php:65
+#: inc/functions.php:75
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:11
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:11
+msgid "One Response"
+msgstr ""
+
+#: comments.php:11
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:28
+msgid "&lt; Older Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer Comments &gt;"
+msgstr ""
+
+#: customizer/customizer-controls.php:418
+msgid "Check all PRO features"
+msgstr ""
+
+#: customizer/customizer-controls.php:485
+msgid "Change Icon"
+msgstr ""
+
+#: customizer/customizer-controls.php:498
+msgid "Select FontAwesome Icon"
+msgstr ""
+
+#: customizer/customizer-controls.php:499
+msgid "Choose Icon"
+msgstr ""
+
+#: footer-content-lists.php:9 footer-content-lists.php:20
+#: footer-content-lists.php:31
+msgid "Go to widgets section to add a widget here."
+msgstr ""
+
+#: inc/companion.php:140
+msgid "Activate now"
+msgstr ""
+
+#: inc/companion.php:143
+msgid "Install now"
+msgstr ""
+
+#: inc/functions.php:23
+msgid "Homepage Header Image"
+msgstr ""
+
+#: inc/functions.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/functions.php:62
+msgid "One Page Express Companion"
+msgstr ""
+
+#: inc/functions.php:63
+msgid "The One Page Express Companion plugin adds drag and drop functionality and many other features to the One Page Express theme."
+msgstr ""
+
+#: inc/functions.php:72
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/functions.php:73
+msgid "The Contact Form 7 plugin is recommended for the One Page Express contact section."
+msgstr ""
+
+#: inc/functions.php:85
+msgid "Activate One Page Express Companion"
+msgstr ""
+
+#: inc/functions.php:86
+msgid "This feature requires the One Page Express Companion plugin to be activated."
+msgstr ""
+
+#: inc/functions.php:87
+msgid "Install One Page Express Companion"
+msgstr ""
+
+#: inc/functions.php:88
+msgid "This feature requires the One Page Express Companion plugin to be installed."
+msgstr ""
+
+#: inc/functions.php:97
+msgid "One Page Express Info"
+msgstr ""
+
+#: inc/functions.php:201
+msgid "You can set this title from the customizer."
+msgstr ""
+
+#: inc/functions.php:218
+msgid "You can set this subtitle from the customizer."
+msgstr ""
+
+#: inc/functions.php:235
+msgid "Action button 1"
+msgstr ""
+
+#: inc/functions.php:254
+msgid "Action button 2"
+msgstr ""
+
+#: inc/functions.php:277
+msgid "Front Page content"
+msgstr ""
+
+#: inc/functions.php:281
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/functions.php:287
+msgid "Front Page Header Designs"
+msgstr ""
+
+#: inc/functions.php:292
+msgid "Front Page Header Background"
+msgstr ""
+
+#: inc/functions.php:297
+msgid "Front Page Header Content"
+msgstr ""
+
+#: inc/functions.php:302
+msgid "Inner Pages Header Background"
+msgstr ""
+
+#: inc/functions.php:307
+msgid "Inner Pages Header Content"
+msgstr ""
+
+#: inc/functions.php:318
+msgid "Typography"
+msgstr ""
+
+#: inc/functions.php:325
+msgid "Typography options are only available in PRO. @BTN@"
+msgstr ""
+
+#: inc/functions.php:393
+msgid "Icon 1"
+msgstr ""
+
+#: inc/functions.php:399
+msgid "Icon 2"
+msgstr ""
+
+#: inc/functions.php:405
+msgid "Icon 3"
+msgstr ""
+
+#: inc/functions.php:411
+msgid "Icon 4"
+msgstr ""
+
+#: inc/functions.php:418
+msgid "Icon 5"
+msgstr ""
+
+#: inc/functions.php:441
+msgid "Simple"
+msgstr ""
+
+#: inc/functions.php:442
+msgid "Contact Boxes"
+msgstr ""
+
+#: inc/functions.php:443
+msgid "Widgets Boxes"
+msgstr ""
+
+#: inc/functions.php:449
+msgid "Footer text and color options available in PRO. @BTN@"
+msgstr ""
+
+#: inc/functions.php:458
+msgid "Box 1"
+msgstr ""
+
+#: inc/functions.php:473 inc/functions.php:518 inc/functions.php:563
+msgid "Icon"
+msgstr ""
+
+#: inc/functions.php:488 inc/functions.php:533 inc/functions.php:578
+msgid "Text"
+msgstr ""
+
+#: inc/functions.php:503
+msgid "Box 2"
+msgstr ""
+
+#: inc/functions.php:548
+msgid "Box 3"
+msgstr ""
+
+#: inc/functions.php:593
+msgid "Social Icons"
+msgstr ""
+
+#: inc/functions.php:612
+msgid "Show "
+msgstr ""
+
+#: inc/functions.php:627
+msgid " url"
+msgstr ""
+
+#: inc/functions.php:647
+msgid " icon"
+msgstr ""
+
+#: inc/functions.php:678 inc/functions.php:1409
+msgid "Background Type"
+msgstr ""
+
+#: inc/functions.php:682 inc/functions.php:1712
+msgid "Image"
+msgstr ""
+
+#: inc/functions.php:689
+msgid "Gradient"
+msgstr ""
+
+#: inc/functions.php:696
+msgid "Slideshow"
+msgstr ""
+
+#: inc/functions.php:704
+msgid "Video"
+msgstr ""
+
+#: inc/functions.php:724
+msgid "Header Image"
+msgstr ""
+
+#: inc/functions.php:735
+msgid "Parallax header background image available in PRO. @BTN@"
+msgstr ""
+
+#: inc/functions.php:750
+msgid "Self hosted video (MP4)"
+msgstr ""
+
+#: inc/functions.php:762
+msgid "External Video"
+msgstr ""
+
+#: inc/functions.php:774
+msgid "Video Poster"
+msgstr ""
+
+#: inc/functions.php:803
+msgid "Navigation Options"
+msgstr ""
+
+#: inc/functions.php:811
+msgid "Show Navigation Bottom Border"
+msgstr ""
+
+#: inc/functions.php:821
+msgid "Boxed Navigation"
+msgstr ""
+
+#: inc/functions.php:831
+msgid "Stick to top"
+msgstr ""
+
+#: inc/functions.php:841
+msgid "Transparent Navigation"
+msgstr ""
+
+#: inc/functions.php:851
+msgid "Navigation colors and typography options available in PRO. @BTN@"
+msgstr ""
+
+#: inc/functions.php:866
+msgid "Header Background Options"
+msgstr ""
+
+#: inc/functions.php:875
+msgid "Full Height Background"
+msgstr ""
+
+#: inc/functions.php:912
+msgid "Header Slideshow Images"
+msgstr ""
+
+#: inc/functions.php:936
+msgid "Slide Duration"
+msgstr ""
+
+#: inc/functions.php:953
+msgid "Effect Speed"
+msgstr ""
+
+#: inc/functions.php:970
+msgid "Header Overlay Options"
+msgstr ""
+
+#: inc/functions.php:979
+msgid "Show overlay"
+msgstr ""
+
+#: inc/functions.php:989
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/functions.php:1025
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/functions.php:1063
+msgid "Header Separator"
+msgstr ""
+
+#: inc/functions.php:1070
+msgid "Show header separator"
+msgstr ""
+
+#: inc/functions.php:1096
+msgid "Separator Height"
+msgstr ""
+
+#: inc/functions.php:1138 inc/functions.php:1537
+msgid "Text Align"
+msgstr ""
+
+#: inc/functions.php:1144 inc/functions.php:1543
+msgid "Left"
+msgstr ""
+
+#: inc/functions.php:1145 inc/functions.php:1544
+msgid "Center"
+msgstr ""
+
+#: inc/functions.php:1146 inc/functions.php:1545
+msgid "Right"
+msgstr ""
+
+#: inc/functions.php:1171
+msgid "Show subtitle (blog description)"
+msgstr ""
+
+#: inc/functions.php:1191 inc/functions.php:1572
+msgid "Content Spacing"
+msgstr ""
+
+#: inc/functions.php:1411
+msgid "Apply Preset"
+msgstr ""
+
+#: inc/functions.php:1423
+msgid "10 more beautiful header designs are available in the PRO version. @BTN@"
+msgstr ""
+
+#: inc/functions.php:1437
+msgid "Logo Max Height"
+msgstr ""
+
+#: inc/functions.php:1448
+msgid "Alternate text logo words"
+msgstr ""
+
+#: inc/functions.php:1461
+msgid "Dark Logo"
+msgstr ""
+
+#: inc/functions.php:1469 inc/functions.php:1474
+msgid "Select logo"
+msgstr ""
+
+#: inc/functions.php:1470
+msgid "Change logo"
+msgstr ""
+
+#: inc/functions.php:1471
+msgid "Remove"
+msgstr ""
+
+#: inc/functions.php:1472
+msgid "Default"
+msgstr ""
+
+#: inc/functions.php:1473
+msgid "No logo selected"
+msgstr ""
+
+#: inc/functions.php:1475
+msgid "Choose logo"
+msgstr ""
+
+#: inc/functions.php:1484
+msgid "Main Content"
+msgstr ""
+
+#: inc/functions.php:1492
+msgid "Allow blog content to overlap header"
+msgstr ""
+
+#: inc/functions.php:1500
+msgid "Overlap with"
+msgstr ""
+
+#: inc/functions.php:1519
+msgid "Text on center"
+msgstr ""
+
+#: inc/functions.php:1520
+msgid "Text on right"
+msgstr ""
+
+#: inc/functions.php:1521
+msgid "Text on left"
+msgstr ""
+
+#: inc/functions.php:1522
+msgid "Image on left, text on right"
+msgstr ""
+
+#: inc/functions.php:1523
+msgid "Text on left, image on right"
+msgstr ""
+
+#: inc/functions.php:1529
+msgid "More content layouts available in PRO. @BTN@"
+msgstr ""
+
+#: inc/functions.php:1603
+msgid "Image width"
+msgstr ""
+
+#: inc/functions.php:1663
+msgid "Text Width"
+msgstr ""
+
+#: inc/functions.php:1736 inc/functions.php:1752
+msgid "Title"
+msgstr ""
+
+#: inc/functions.php:1744
+msgid "Show title"
+msgstr ""
+
+#: inc/functions.php:1783 inc/functions.php:1799
+msgid "Subtitle"
+msgstr ""
+
+#: inc/functions.php:1791
+msgid "Show subtitle"
+msgstr ""
+
+#: inc/functions.php:1830
+msgid "Primary Button"
+msgstr ""
+
+#: inc/functions.php:1838
+msgid "Show primary button"
+msgstr ""
+
+#: inc/functions.php:1846 inc/functions.php:1915
+msgid "Label"
+msgstr ""
+
+#: inc/functions.php:1875 inc/functions.php:1944
+msgid "URL"
+msgstr ""
+
+#: inc/functions.php:1899
+msgid "Secondary Button"
+msgstr ""
+
+#: inc/functions.php:1907
+msgid "Show secondary button"
+msgstr ""
+
+#: inc/functions.php:1967
+msgid "Title and buttons style options available in PRO. @BTN@"
+msgstr ""
+
+#: inc/functions.php:2002
+msgid "Sidebar widget area"
+msgstr ""
+
+#: inc/functions.php:2050
+msgid "Read more"
+msgstr ""
+
+#: inc/functions.php:2270
+msgid "Built using WordPress and <a href=\"//onepageexpress.com\">OnePage Express Theme</a>."
+msgstr ""
+
+#: inc/functions.php:2297
+msgid "Page not found"
+msgstr ""
+
+#: inc/functions.php:2299
+#, php-format
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/functions.php:2386
+msgid "Pause"
+msgstr ""
+
+#: inc/functions.php:2387
+msgid "Play"
+msgstr ""
+
+#: inc/functions.php:2388
+msgid "Video is paused."
+msgstr ""
+
+#: inc/functions.php:2389
+msgid "Video is playing."
+msgstr ""
+
+#: inc/functions.php:2651
+msgid "Older posts"
+msgstr ""
+
+#: inc/functions.php:2652
+msgid "Newer posts"
+msgstr ""
+
+#: inc/functions.php:2653
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/theme-info.php:56
+msgid "Customize"
+msgstr ""
+
+#: index.php:1
+msgid "Previous"
+msgstr ""
+
+#: index.php:1
+msgid "Next"
+msgstr ""
+
+#: index.php:1 template-parts/content-single.php:1
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-none.php:1
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Previous:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Previous post:"
+msgstr ""

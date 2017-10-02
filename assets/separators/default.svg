@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1462 152" preserveAspectRatio="none" style="transform: rotateX(180deg) rotateY(180deg) translateY(-1px)">
+    <defs>
+        <linearGradient x1="97.163409%" y1="58.0499912%" x2="7.18499987%" y2="6.10491434%" id="linearGradient-1">
+            <stop stop-color="#EB121A" offset="0%"></stop>
+            <stop stop-color="#F9EB19" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="67.3781702%" id="linearGradient-2">
+            <stop stop-color="#EB121A" offset="0%"></stop>
+            <stop stop-color="#F9EB19" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g  transform="translate(0.000000, -20.000000)" fill-rule="nonzero">
+            <polygon class="svg-white-bg" id="Rectangle" fill="#FFFFFF" points="1463 21 1463 172 0.4609375 172"></polygon>
+            <g id=".separator" transform="translate(954.032647, 148.417559) rotate(-7.000000) translate(-954.032647, -148.417559) translate(432.532647, 62.917559)">
+                <polygon id="triangle" fill="url(#linearGradient-1)" points="1041.94099 23.0800921 1023.77871 171 583.054571 15.4916315"></polygon>
+                <polygon id="bar" fill="url(#linearGradient-2)" points="5.35590181 0.534983183 1042.21825 21 1040.51451 34.8759046 0.0112646254 44.0635599"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
